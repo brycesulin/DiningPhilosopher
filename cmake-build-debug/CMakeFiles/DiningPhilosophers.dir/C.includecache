@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brycesulin/Desktop/Github Projects/Operating Systems Class Projects/DiningPhilosophers/Dining-Philosophers.c
+pthread.h
+-
+semaphore.h
+-
+stdio.h
+-
+zconf.h
+-
+
